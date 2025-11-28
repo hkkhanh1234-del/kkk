@@ -141,7 +141,7 @@ header{ text-align:center; padding:110px 20px 50px; position:relative; overflow:
 
 <header>
   <h1 class="hero-title">Huỳnh Kim Khánh</h1>
-  <p class="hero-tagline">🐬 Copywriter • 📘 Language Explorer • 🌊 Ocean Lover</p>
+  <p class="hero-tagline">      • 📘 Language Explorer • 🌊 Ocean Lover</p>
 </header>
 
 <!-- Balloons -->
@@ -170,16 +170,14 @@ for (let i = 0; i < balloonCount; i++) {
     </div>
 
     <div class="right">
-      <div class="meta">🎓 Học sinh lớp 11 • 🌅 Curious & Learning</div>
+      <div class="meta">🎓 Học sinh lớp 12A • 🌅 Curious & Learning</div>
 
       <!-- HERE: humble intro (edited as you requested) -->
       <div class="section">
         <h3>🧠 About Me</h3>
 
         <p class="humble-intro">
-          Mình là <strong>học sinh cấp 3 bình thường</strong>, đang trên hành trình <strong>khám phá bản thân</strong> và
-          <strong>học hỏi những điều mới mỗi ngày</strong>. Mình đặc biệt thích <strong>viết lách</strong>, <strong>học ngôn ngữ</strong>, và <strong>yêu biển</strong> — nơi giúp mình cảm thấy
-          <strong>thoải mái</strong>, <strong>bình yên</strong> và là chính mình nhất. Trang web này là <strong>góc nhỏ</strong> để mình <strong>lưu lại sở thích</strong>, <strong>cảm hứng</strong> và
+          Mình là một học sinh cấp 3, đang trên hành trình khám phá bản thân và học hỏi những điều mới mỗi ngày. Mình đặc biệt thích <strong>viết lách</strong>, <strong>học ngôn ngữ</strong>, và <strong>yêu biển</strong> — nơi giúp mình cảm thấy thoải mái, bình yên, và là chính mình nhất. Trang web này là góc nhỏ để mìnhlưu lại sở thích, cảm hứng và
           <strong>những kỷ niệm trong hành trình trưởng thành</strong> của mình 🌿
         </p>
       </div>
@@ -187,7 +185,7 @@ for (let i = 0; i < balloonCount; i++) {
       <!-- rest sections remain -->
       <div class="section"><h3>🗣 Language Journey</h3>
         <ul>
-          <li>🇬🇧 English: band 7 → goal 8.0 (Dec 2025)</li>
+          <li>🇬🇧 English: advanced </li>
           <li>🇪🇸 Spanish: basic communication luyện nói</li>
           <li>🇨🇳 Chinese: HSK foundation đang học Nǐ hǎo</li>
         </ul>
@@ -204,7 +202,7 @@ for (let i = 0; i < balloonCount; i++) {
       <div class="section"><h3>🚀 Future Goals</h3>
         <ul>
           <li>Xây portfolio freelance</li>
-          <li>Build personal brand ngôn ngữ & copy</li>
+          <li>Xây dựng personal brand và sự nghiệp </li>
           <li>Học stocks, fintech, AI for marketing</li>
         </ul>
       </div>
