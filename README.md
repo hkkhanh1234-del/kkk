@@ -211,8 +211,9 @@ for (let i = 0; i < balloonCount; i++) {
   </div>
 </div>
 
-<footer style="text-align:center; padding:40px 0;">
-  <a class="btn-home" href="../">⬆ Quay lại trang chính</a>
+<!-- FOOTER WITH HOME BUTTON -->
+<footer>
+  <a class="btn-home" href="javascript:history.back()">⬅️ Quay lại trang chính</a>
 </footer>
 
 </body>
